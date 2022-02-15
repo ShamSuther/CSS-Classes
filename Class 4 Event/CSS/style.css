@@ -1,0 +1,40 @@
+head{
+    background-color: rgb(255, 0, 0);
+}
+#one{
+    background-color: gold;
+    min-width: 50%;
+    max-width: 20%;
+    min-height: 100px;
+    max-height: 100px;
+    overflow: scroll;
+}
+.one::first-letter{
+    background-color: chartreuse;
+    color: rgb(255, 255, 255);
+}
+.one::first-line{
+    background-color: darkred;
+    color: deeppink;
+}
+
+button:hover{
+    background-color: chartreuse;
+    color: rgb(85, 23, 255);
+
+}
+button:active{
+    background-color: cyan;
+    color: yellow;
+}
+input:focus{
+    background-color: crimson;
+    color: turquoise;
+}
+a{
+    font-size: 72px;
+    color: rgb(255, 23, 23);
+}
+a:visited{
+    color: rgb(0, 0, 0);
+}

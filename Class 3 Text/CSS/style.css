@@ -1,0 +1,45 @@
+body{
+    font-size: 50px;
+}
+#one{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 60px;
+}
+#span1{
+    text-decoration-line: underline;
+}
+#two{
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 5px;
+}
+#span2{
+    font-weight: bold;
+    font-style: italic;
+}
+#span3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+}
+#span4{
+    font-family: comics sans, ; 
+    text-decoration-line: line-through;
+}
+#span5{
+    word-spacing: 8px;
+    letter-spacing: -7px;
+    font-family: arial;
+}
+#four{
+    word-spacing: 60px;
+}
+#span6{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration-line: overline; 
+}
+#span8{
+    text-shadow: 5px 3px 5px aqua;
+}
+#span9{
+    text-shadow: 0px -3px 5px rgba(255, 0, 191, 0.897);
+}

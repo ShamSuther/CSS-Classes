@@ -1,0 +1,93 @@
+#p1{
+    padding: 20px;
+    text-align: justify;
+    margin: 20px;
+    border: 20px solid;
+    border-image: fill;
+    border-image-source: url('./Assignment/border.png');
+    border-image-slice: 28;
+    border-image-repeat: stretch;
+    color: red;
+}
+#p1 b{
+    font-size: 50px;
+    margin: 100px;
+}
+#p2{
+    padding: 20px;
+    text-align: justify;
+    margin: 20px;
+    border: 20px solid;
+    border-image: fill;
+    border-image-source: url('./Assignment/download.png');
+    border-image-slice: 33;
+    border-image-repeat: round;
+    color: #ffd700;
+}
+#p2 b{
+    font-size: 50px;
+    margin: 100px;
+}
+#p3{
+    padding: 20px;
+    text-align: justify;
+    margin: 20px;
+    border: 20px solid;
+    border-image: fill;
+    border-image-source: url('./Assignment/images.jfif');
+    border-image-slice: 50;
+    border-image-repeat: repeat;
+    color: green;
+}
+#p3 b{
+    font-size: 50px;
+    margin: 100px;
+}
+#p4{
+    padding: 20px;
+    text-align: justify;
+    margin: 20px;
+    border: 20px solid;
+    border-image: fill;
+    border-image-source: url('./Assignment/images\ \(1\).jfif');
+    border-image-slice: 50;
+    border-image-repeat: round;
+    color: rgb(128, 0, 107);
+}
+#p4 b{
+    font-size: 50px;
+    margin: 100px;
+}
+button{
+    margin: 20px;
+    font-size: 20px;
+    cursor:grab;
+    font-style: normal;
+}
+a{
+    font-size: 20px;
+    text-transform: uppercase;
+    cursor: default;
+}
+ul li{
+    list-style-image: url(./Assignment/right-arrow.png) ;
+    padding: 5px;
+}
+ol li{
+    list-style: circle;
+    list-style-image: url(./Assignment/check.png);
+    text-shadow: 0px 0px 5px rgb(0, 0, 0);
+    padding-bottom: 10px;
+
+}
+td{
+    empty-cells: hide;
+    border: 1px solid #ffd700;
+    /* border: 1px solid black; */
+}
+table{
+    border-collapse: collapse;
+    margin: 20px;
+    border: 1px solid yellow;
+    box-shadow: 5px -5px 10px #ffd700;
+}
